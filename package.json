@@ -1,0 +1,9 @@
+{
+  "name": "Node.js-Random-Color-Generator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "https://github.com/michaels90up/Node.js-Random-Color-Generator",
+  "author": "michaels90up <michael1990spw@gmail.com>",
+  "license": "MIT"
+}
