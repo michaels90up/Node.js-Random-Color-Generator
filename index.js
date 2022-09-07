@@ -1,7 +1,8 @@
 import { argv } from 'node:process';
 import chalk from 'chalk';
-import color from 'randomcolor';
 import randomColor from 'randomcolor';
 
-console.log(argv);
-console.log(randomColor());
+const color = randomColor();
+console.log(color);
+// console.log(chalk.hex(color);
+const userTry =
