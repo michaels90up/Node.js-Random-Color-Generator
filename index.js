@@ -1,4 +1,3 @@
-import { argv } from 'node:process';
 import kuler from 'kuler';
 import randomColor from 'randomcolor';
 
